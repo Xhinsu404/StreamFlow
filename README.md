@@ -5,13 +5,13 @@ StreamFlow is a script that tests a server or web by overloading or flooding a w
 Screenshots
 ----
 
-![Screenshot](https://github.com/Xvenn-03/StreamFlow/blob/main/Screenshot_StreamFlow.jpg)
+![Screenshot](https://github.com/Xhinsu404/StreamFlow/blob/main/Screenshot_StreamFlow.jpg)
 Installation
 ----
 
-Preferably, you can download StreamFlow by cloning the [Git](https://github.com/Xvenn-03/StreamFlow.git) repository:
+Preferably, you can download StreamFlow by cloning the [Git](https://github.com/Xhinsu404/StreamFlow.git) repository:
 
-    git clone https://github.com/Xvenn-03/StreamFlow.git
+    git clone https://github.com/Xhinsu404/StreamFlow.git
 
 StreamFlow works out of the box with [Python](https://www.python.org/download/) 
 
